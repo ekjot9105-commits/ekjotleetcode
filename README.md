@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3524-find-x-value-of-array-i](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Math
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,4 +55,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
+## Sorting
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Simulation
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Counting
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
