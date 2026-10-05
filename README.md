@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/0856-score-of-parentheses) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Greedy
@@ -97,9 +98,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/0856-score-of-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
