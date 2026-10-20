@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3886-sum-of-sortable-integers) |
 | [4062-transform-array-using-pair-operations](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/4062-transform-array-using-pair-operations) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Math
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3524-find-x-value-of-array-i](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3886-sum-of-sortable-integers](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3886-sum-of-sortable-integers](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3886-sum-of-sortable-integers) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Sorting
 |  |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3886-sum-of-sortable-integers) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Heap (Priority Queue)
 |  |
