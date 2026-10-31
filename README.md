@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/0001-two-sum) |
+| [0347-top-k-frequent-elements](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/0347-top-k-frequent-elements) |
 | [1254-number-of-closed-islands](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/0001-two-sum) |
+| [0347-top-k-frequent-elements](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/0347-top-k-frequent-elements) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/0347-top-k-frequent-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/0347-top-k-frequent-elements) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
@@ -118,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/0347-top-k-frequent-elements) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Ordered Set
 |  |
@@ -163,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/0347-top-k-frequent-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Tree
@@ -222,4 +228,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
