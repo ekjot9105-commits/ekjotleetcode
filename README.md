@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/0067-add-binary) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1041-robot-bounded-in-circle](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3524-find-x-value-of-array-i](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1041-robot-bounded-in-circle](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/1041-robot-bounded-in-circle) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/0067-add-binary) |
+| [1041-robot-bounded-in-circle](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/1041-robot-bounded-in-circle) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Counting
 |  |
