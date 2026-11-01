@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/0347-top-k-frequent-elements) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1254-number-of-closed-islands](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/0067-add-binary) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3524-find-x-value-of-array-i](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
