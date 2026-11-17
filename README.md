@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3665-twisted-mirror-path-count) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## String
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-robot-bounded-in-circle](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/1041-robot-bounded-in-circle) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
