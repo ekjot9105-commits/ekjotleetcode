@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3886-sum-of-sortable-integers](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3886-sum-of-sortable-integers) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Sorting
@@ -322,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ekjot9105-commits/ekjotleetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
